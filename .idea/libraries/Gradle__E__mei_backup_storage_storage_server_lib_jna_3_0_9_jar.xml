@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: E__mei_backup_storage_storage_server_lib_jna_3_0_9_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jna-3.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-3.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-3.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-3.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

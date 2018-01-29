@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/coalpit-server.iml" filepath="$PROJECT_DIR$/coalpit-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage-server.iml" filepath="$PROJECT_DIR$/storage-server.iml" />
+    </modules>
+  </component>
+</project>
+

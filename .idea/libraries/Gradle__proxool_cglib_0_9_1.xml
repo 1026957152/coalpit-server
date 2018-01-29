@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: proxool-cglib-0.9.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudhopper.proxool/proxool-cglib/0.9.1/9e26af5eb454063eab835ca63f2413e6ae62b488/proxool-cglib-0.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudhopper.proxool/proxool-cglib/0.9.1/e2f1cb2b2dbc7e0f41c4af51c38dfe7736505d8f/proxool-cglib-0.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
